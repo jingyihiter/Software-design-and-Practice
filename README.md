@@ -1,7 +1,7 @@
 # Software-design-and-Practice 
 #常用数据结构
 ##软件设计与实践代码
-**线性结构**<br>
+>>**线性结构**<br>
 >>数组 <br>
 >>线性表  <br>
 >>栈 <br>
